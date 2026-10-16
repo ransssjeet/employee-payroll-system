@@ -1,1 +1,3 @@
-
+employee_id,name,department,employee_type,basic_salary,allowances,deductions
+001,RK,Manager,permanent,150000.00,2000.00,3000.00
+002,PKB,Loan,permanent,80000.00,12000.00,5000.00
